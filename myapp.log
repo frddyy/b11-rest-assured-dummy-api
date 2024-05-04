@@ -20,3 +20,140 @@
 2024-05-04 10:59:05,428 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
 2024-05-04 10:59:05,428 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
 2024-05-04 10:59:05,428 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 17:40:06,829 DEBUG [main] o.t.TestNG - suiteXmlPath: "c:\Users\Lenovo\Documents\KULIAH POLBAN\SEMESTER 6\SOFTWARE TESTING\TUGAS WEEK 10 - API TESTING\B11 - Automation API Testing\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 17:40:07,008 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@13b13b5d] -940515446
+2024-05-04 17:40:07,008 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 17:40:07,008 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 17:40:07,008 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 17:40:07,008 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 17:40:21,677 DEBUG [main] o.t.TestNG - suiteXmlPath: "c:\Users\Lenovo\Documents\KULIAH POLBAN\SEMESTER 6\SOFTWARE TESTING\TUGAS WEEK 10 - API TESTING\B11 - Automation API Testing\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 17:40:21,833 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@13b13b5d] -940515446
+2024-05-04 17:40:21,833 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 17:40:21,833 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 17:40:21,833 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 17:40:21,833 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 18:02:07,305 DEBUG [main] o.t.TestNG - suiteXmlPath: "c:\Users\Lenovo\Documents\KULIAH POLBAN\SEMESTER 6\SOFTWARE TESTING\TUGAS WEEK 10 - API TESTING\B11 - Automation API Testing\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 18:02:07,477 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@13b13b5d] -940515446
+2024-05-04 18:02:07,477 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 18:02:07,477 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 18:02:07,477 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 18:02:07,477 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 18:16:29,792 DEBUG [main] o.t.TestNG - suiteXmlPath: "c:\Users\Lenovo\Documents\KULIAH POLBAN\SEMESTER 6\SOFTWARE TESTING\TUGAS WEEK 10 - API TESTING\B11 - Automation API Testing\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 18:16:30,076 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@355ce81c] -375616439
+2024-05-04 18:16:30,076 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByIdWithValidIdAndAppID()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@62e7f11d] 698869945
+2024-05-04 18:16:30,081 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 18:16:30,086 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 18:16:30,086 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 18:16:30,086 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 18:16:33,895 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@355ce81c] -375616439
+2024-05-04 18:16:33,895 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByIdWithValidIdAndAppID()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@62e7f11d] 698869945
+2024-05-04 18:16:33,895 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 18:16:33,895 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 18:16:33,895 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 18:16:33,895 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 18:19:33,334 DEBUG [main] o.t.TestNG - suiteXmlPath: "c:\Users\Lenovo\Documents\KULIAH POLBAN\SEMESTER 6\SOFTWARE TESTING\TUGAS WEEK 10 - API TESTING\B11 - Automation API Testing\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 18:19:33,523 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@355ce81c] -375616439
+2024-05-04 18:19:33,523 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByIdWithValidIdAndAppID()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@62e7f11d] 698869945
+2024-05-04 18:19:33,523 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 18:19:33,533 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 18:19:33,533 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 18:19:33,533 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 18:19:36,954 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@355ce81c] -375616439
+2024-05-04 18:19:36,954 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByIdWithValidIdAndAppID()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@62e7f11d] 698869945
+2024-05-04 18:19:36,954 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 18:19:36,954 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 18:19:36,954 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 18:19:36,954 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 18:22:36,970 DEBUG [main] o.t.TestNG - suiteXmlPath: "c:\Users\Lenovo\Documents\KULIAH POLBAN\SEMESTER 6\SOFTWARE TESTING\TUGAS WEEK 10 - API TESTING\B11 - Automation API Testing\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 18:22:37,133 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@355ce81c] -375616439
+2024-05-04 18:22:37,133 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByIdWithValidIdAndAppID()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@62e7f11d] 698869945
+2024-05-04 18:22:37,133 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 18:22:37,141 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 18:22:37,142 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 18:22:37,142 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 18:24:08,782 DEBUG [main] o.t.TestNG - suiteXmlPath: "c:\Users\Lenovo\Documents\KULIAH POLBAN\SEMESTER 6\SOFTWARE TESTING\TUGAS WEEK 10 - API TESTING\B11 - Automation API Testing\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 18:24:08,952 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@355ce81c] -375616439
+2024-05-04 18:24:08,952 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByValidUserAndAppId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@62e7f11d] 616270632
+2024-05-04 18:24:08,952 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 18:24:08,957 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 18:24:08,957 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 18:24:08,957 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 18:44:43,899 DEBUG [main] o.t.TestNG - suiteXmlPath: "c:\Users\Lenovo\Documents\KULIAH POLBAN\SEMESTER 6\SOFTWARE TESTING\TUGAS WEEK 10 - API TESTING\B11 - Automation API Testing\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 18:44:44,072 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@29647f75] -576445534
+2024-05-04 18:44:44,072 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByValidUserAndAppId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@503d687a] 303104645
+2024-05-04 18:44:44,072 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByValidUserIdbutUn()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@503d687a] 1145855565
+2024-05-04 18:44:44,072 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 18:44:44,078 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 18:44:44,078 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 18:44:44,078 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 18:50:53,568 DEBUG [main] o.t.TestNG - suiteXmlPath: "c:\Users\Lenovo\Documents\KULIAH POLBAN\SEMESTER 6\SOFTWARE TESTING\TUGAS WEEK 10 - API TESTING\B11 - Automation API Testing\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 18:50:53,748 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@3315d2d7] -413829372
+2024-05-04 18:50:53,749 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByValidUserIdbutUnregistered()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@6a370f4] -451844763
+2024-05-04 18:50:53,749 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByValidUserAndAppId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@6a370f4] -931722497
+2024-05-04 18:50:53,749 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByInvalidUserId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@6a370f4] -800515666
+2024-05-04 18:50:53,749 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 18:50:53,749 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 18:50:53,749 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 18:50:53,749 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 19:00:27,398 DEBUG [main] o.t.TestNG - suiteXmlPath: "c:\Users\Lenovo\Documents\KULIAH POLBAN\SEMESTER 6\SOFTWARE TESTING\TUGAS WEEK 10 - API TESTING\B11 - Automation API Testing\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 19:00:27,647 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@d6e7bab] -1045553192
+2024-05-04 19:00:27,648 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByValidUserIdbutUnregistered()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@2abf4075] 153957606
+2024-05-04 19:00:27,648 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByAppIdNotFilled()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@2abf4075] 82658663
+2024-05-04 19:00:27,648 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByValidUserAndAppId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@2abf4075] -325920128
+2024-05-04 19:00:27,648 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByInvalidUserId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@2abf4075] -194713297
+2024-05-04 19:00:27,648 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 19:00:27,648 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 19:00:27,648 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 19:00:27,648 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 19:04:47,949 DEBUG [main] o.t.TestNG - suiteXmlPath: "c:\Users\Lenovo\Documents\KULIAH POLBAN\SEMESTER 6\SOFTWARE TESTING\TUGAS WEEK 10 - API TESTING\B11 - Automation API Testing\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 19:04:48,113 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@5fa07e12] 333455935
+2024-05-04 19:04:48,113 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByValidUserIdbutUnregistered()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@770d3326] 1434134423
+2024-05-04 19:04:48,113 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByAppIdNotFilled()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@770d3326] 1362835480
+2024-05-04 19:04:48,113 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByValidUserAndAppId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@770d3326] 954256689
+2024-05-04 19:04:48,113 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByInvalidUserId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@770d3326] 1085463520
+2024-05-04 19:04:48,113 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByInvalidAppId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@770d3326] 1069573228
+2024-05-04 19:04:48,113 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 19:04:48,116 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 19:04:48,116 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 19:04:48,116 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 19:13:44,859 DEBUG [main] o.t.TestNG - suiteXmlPath: "c:\Users\Lenovo\Documents\KULIAH POLBAN\SEMESTER 6\SOFTWARE TESTING\TUGAS WEEK 10 - API TESTING\B11 - Automation API Testing\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 19:13:45,048 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@482bce4f] -60067204
+2024-05-04 19:13:45,048 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByValidUserIdbutUnregistered()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@51f116b8] 811535145
+2024-05-04 19:13:45,048 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByAppIdNotFilled()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@51f116b8] 740236202
+2024-05-04 19:13:45,048 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByValidUserAndAppId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@51f116b8] 331657411
+2024-05-04 19:13:45,048 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByInvalidUserId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@51f116b8] 462864242
+2024-05-04 19:13:45,048 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByInvalidAppId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@51f116b8] 446973950
+2024-05-04 19:13:45,048 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DeleteUserApiTests.testDeleteUserWithAppIdUnregistered()[pri:0, instance:com.restassured.dummyapi.DeleteUserApiTests@19d481b] -1883413298
+2024-05-04 19:13:45,048 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 19:13:45,054 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 19:13:45,057 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 19:13:45,057 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 19:19:11,618 DEBUG [main] o.t.TestNG - suiteXmlPath: "c:\Users\Lenovo\Documents\KULIAH POLBAN\SEMESTER 6\SOFTWARE TESTING\TUGAS WEEK 10 - API TESTING\B11 - Automation API Testing\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 19:19:11,819 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@26275bef] -630783972
+2024-05-04 19:19:11,819 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByValidUserIdbutUnregistered()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@34f7cfd9] 325436490
+2024-05-04 19:19:11,819 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByAppIdNotFilled()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@34f7cfd9] 254137547
+2024-05-04 19:19:11,819 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByValidUserAndAppId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@34f7cfd9] -154441244
+2024-05-04 19:19:11,819 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByInvalidUserId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@34f7cfd9] -23234413
+2024-05-04 19:19:11,819 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByInvalidAppId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@34f7cfd9] -39124705
+2024-05-04 19:19:11,819 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DeleteUserApiTests.testDeleteUserWithAppIdUnregistered()[pri:0, instance:com.restassured.dummyapi.DeleteUserApiTests@65f095f8] -200232277
+2024-05-04 19:19:11,819 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DeleteUserApiTests.testDeleteUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DeleteUserApiTests@65f095f8] 1156837189
+2024-05-04 19:19:11,819 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 19:19:11,819 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 19:19:11,819 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 19:19:11,819 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 19:35:08,800 DEBUG [main] o.t.TestNG - suiteXmlPath: "c:\Users\Lenovo\Documents\KULIAH POLBAN\SEMESTER 6\SOFTWARE TESTING\TUGAS WEEK 10 - API TESTING\B11 - Automation API Testing\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 19:35:09,008 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@3246fb96] -427384893
+2024-05-04 19:35:09,008 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByValidUserIdbutUnregistered()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@3e6ef8ad] 484240670
+2024-05-04 19:35:09,008 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByAppIdNotFilled()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@3e6ef8ad] 412941727
+2024-05-04 19:35:09,008 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByValidUserAndAppId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@3e6ef8ad] 4362936
+2024-05-04 19:35:09,008 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByInvalidUserId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@3e6ef8ad] 135569767
+2024-05-04 19:35:09,010 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE GetUserByIdApiTests.testGetUserByInvalidAppId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@3e6ef8ad] 119679475
+2024-05-04 19:35:09,010 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DeleteUserApiTests.testDeleteUserWithAppIdUnregistered()[pri:0, instance:com.restassured.dummyapi.DeleteUserApiTests@346d61be] -1030914447
+2024-05-04 19:35:09,010 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DeleteUserApiTests.testDeleteUserWithValidUserAndAppId()[pri:0, instance:com.restassured.dummyapi.DeleteUserApiTests@346d61be] 1974837990
+2024-05-04 19:35:09,010 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DeleteUserApiTests.testDeleteUserWithdAppIdNotFilled()[pri:0, instance:com.restassured.dummyapi.DeleteUserApiTests@346d61be] 1698701015
+2024-05-04 19:35:09,010 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DeleteUserApiTests.testDeleteUserWithValidUserIdbutUnregistered()[pri:0, instance:com.restassured.dummyapi.DeleteUserApiTests@346d61be] 958602480
+2024-05-04 19:35:09,010 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DeleteUserApiTests.testDeleteUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DeleteUserApiTests@346d61be] 326155019
+2024-05-04 19:35:09,010 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 19:35:09,010 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 19:35:09,010 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 19:35:09,010 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES

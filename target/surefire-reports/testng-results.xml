@@ -1,17 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-04T10:59:05 WIB" name="Suite" finished-at="2024-05-04T10:59:12 WIB" duration-ms="6717">
+  <suite started-at="2024-05-04T19:35:09 WIB" name="Suite" finished-at="2024-05-04T19:35:18 WIB" duration-ms="9943">
     <groups>
     </groups>
-    <test started-at="2024-05-04T10:59:05 WIB" name="DummyAPI Test" finished-at="2024-05-04T10:59:12 WIB" duration-ms="6717">
+    <test started-at="2024-05-04T19:35:09 WIB" name="DummyAPI Test" finished-at="2024-05-04T19:35:18 WIB" duration-ms="9943">
+      <class name="com.restassured.dummyapi.GetUserByIdApiTests">
+        <test-method signature="testGetUserByAppIdNotFilled()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@3e6ef8ad]" started-at="2024-05-04T19:35:11 WIB" name="testGetUserByAppIdNotFilled" finished-at="2024-05-04T19:35:12 WIB" duration-ms="809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByAppIdNotFilled -->
+        <test-method signature="testGetUserByInvalidAppId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@3e6ef8ad]" started-at="2024-05-04T19:35:12 WIB" name="testGetUserByInvalidAppId" finished-at="2024-05-04T19:35:13 WIB" duration-ms="932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByInvalidAppId -->
+        <test-method signature="testGetUserByInvalidUserId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@3e6ef8ad]" started-at="2024-05-04T19:35:13 WIB" name="testGetUserByInvalidUserId" finished-at="2024-05-04T19:35:13 WIB" duration-ms="658" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByInvalidUserId -->
+        <test-method signature="testGetUserByValidUserAndAppId()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@3e6ef8ad]" started-at="2024-05-04T19:35:13 WIB" name="testGetUserByValidUserAndAppId" finished-at="2024-05-04T19:35:14 WIB" duration-ms="597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByValidUserAndAppId -->
+        <test-method signature="testGetUserByValidUserIdbutUnregistered()[pri:0, instance:com.restassured.dummyapi.GetUserByIdApiTests@3e6ef8ad]" started-at="2024-05-04T19:35:14 WIB" name="testGetUserByValidUserIdbutUnregistered" finished-at="2024-05-04T19:35:15 WIB" duration-ms="1121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByValidUserIdbutUnregistered -->
+      </class> <!-- com.restassured.dummyapi.GetUserByIdApiTests -->
       <class name="com.restassured.dummyapi.DummyApiTests">
-        <test-method signature="testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@13b13b5d]" started-at="2024-05-04T10:59:05 WIB" name="testUpdateUserWithInvalidAppId" finished-at="2024-05-04T10:59:12 WIB" duration-ms="6663" status="PASS">
+        <test-method signature="testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@3246fb96]" started-at="2024-05-04T19:35:09 WIB" name="testUpdateUserWithInvalidAppId" finished-at="2024-05-04T19:35:11 WIB" duration-ms="2477" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdateUserWithInvalidAppId -->
       </class> <!-- com.restassured.dummyapi.DummyApiTests -->
+      <class name="com.restassured.dummyapi.DeleteUserApiTests">
+        <test-method signature="testDeleteUserWithAppIdUnregistered()[pri:0, instance:com.restassured.dummyapi.DeleteUserApiTests@346d61be]" started-at="2024-05-04T19:35:15 WIB" name="testDeleteUserWithAppIdUnregistered" finished-at="2024-05-04T19:35:16 WIB" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUserWithAppIdUnregistered -->
+        <test-method signature="testDeleteUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DeleteUserApiTests@346d61be]" started-at="2024-05-04T19:35:16 WIB" name="testDeleteUserWithInvalidAppId" finished-at="2024-05-04T19:35:17 WIB" duration-ms="880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUserWithInvalidAppId -->
+        <test-method signature="testDeleteUserWithValidUserAndAppId()[pri:0, instance:com.restassured.dummyapi.DeleteUserApiTests@346d61be]" started-at="2024-05-04T19:35:17 WIB" name="testDeleteUserWithValidUserAndAppId" finished-at="2024-05-04T19:35:17 WIB" duration-ms="490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUserWithValidUserAndAppId -->
+        <test-method signature="testDeleteUserWithValidUserIdbutUnregistered()[pri:0, instance:com.restassured.dummyapi.DeleteUserApiTests@346d61be]" started-at="2024-05-04T19:35:17 WIB" name="testDeleteUserWithValidUserIdbutUnregistered" finished-at="2024-05-04T19:35:18 WIB" duration-ms="501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUserWithValidUserIdbutUnregistered -->
+        <test-method signature="testDeleteUserWithdAppIdNotFilled()[pri:0, instance:com.restassured.dummyapi.DeleteUserApiTests@346d61be]" started-at="2024-05-04T19:35:18 WIB" name="testDeleteUserWithdAppIdNotFilled" finished-at="2024-05-04T19:35:18 WIB" duration-ms="873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUserWithdAppIdNotFilled -->
+      </class> <!-- com.restassured.dummyapi.DeleteUserApiTests -->
     </test> <!-- DummyAPI Test -->
   </suite> <!-- Suite -->
 </testng-results>
