@@ -115,3 +115,1028 @@
 2024-05-04 19:25:53,625 INFO [main] o.t.i.Utils - [TestNG] Running:
   Command line suite
 
+2024-05-04 20:16:27,299 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3cd3e762] -1069913556
+2024-05-04 20:16:27,301 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3cd3e762] 1613989452
+2024-05-04 20:16:27,301 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:16:27,310 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:16:27,310 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:16:27,310 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:16:27,327 INFO [main] o.t.i.Utils - [TestNG] Running:
+  Command line suite
+
+2024-05-04 20:21:55,807 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3cd3e762] -1069913556
+2024-05-04 20:21:55,824 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:21:55,824 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:21:55,824 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:21:55,824 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:21:55,824 INFO [main] o.t.i.Utils - [TestNG] Running:
+  Command line suite
+
+2024-05-04 20:23:42,683 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3cd3e762] -1069913556
+2024-05-04 20:23:42,687 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:23:42,690 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:23:42,691 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:23:42,691 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:23:42,700 INFO [main] o.t.i.Utils - [TestNG] Running:
+  Command line suite
+
+2024-05-04 20:29:13,653 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 20:29:52,193 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3cd3e762] -1069913556
+2024-05-04 20:29:52,208 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:29:52,208 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:29:52,208 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:29:52,208 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:29:52,224 INFO [main] o.t.i.Utils - [TestNG] Running:
+  Command line suite
+
+2024-05-04 20:30:45,390 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 20:33:17,324 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 20:40:22,567 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 20:40:23,127 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@29647f75] 253262045
+2024-05-04 20:40:23,128 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@29647f75] -1542662329
+2024-05-04 20:40:23,129 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@29647f75] -1328013564
+2024-05-04 20:40:23,130 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3972a855] 1557284671
+2024-05-04 20:40:23,130 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:40:23,137 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:40:23,139 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:40:23,141 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:40:36,688 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3972a855] 1557284671
+2024-05-04 20:40:36,689 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@29647f75] -1328013564
+2024-05-04 20:40:36,689 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@29647f75] 253262045
+2024-05-04 20:40:36,690 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@29647f75] -1542662329
+2024-05-04 20:40:36,691 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:40:36,692 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:40:36,694 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:40:36,694 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:41:33,668 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 20:41:34,055 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 20:41:34,055 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 20:41:34,055 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 20:41:34,055 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 20:41:34,055 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 20:41:34,055 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:41:34,068 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:41:34,068 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:41:34,068 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:41:44,276 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 20:41:44,276 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 20:41:44,276 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 20:41:44,276 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 20:41:44,276 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 20:41:44,276 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:41:44,276 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:41:44,276 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:41:44,276 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:42:43,401 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3cd3e762] -1069913556
+2024-05-04 20:42:43,427 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:42:43,434 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:42:43,434 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:42:43,434 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:42:43,443 INFO [main] o.t.i.Utils - [TestNG] Running:
+  Command line suite
+
+2024-05-04 20:44:09,601 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3cd3e762] -1069913556
+2024-05-04 20:44:09,612 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:44:09,629 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:44:09,630 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:44:09,632 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:44:09,648 INFO [main] o.t.i.Utils - [TestNG] Running:
+  Command line suite
+
+2024-05-04 20:44:41,277 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 20:44:41,664 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 20:44:41,664 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 20:44:41,665 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 20:44:41,665 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 20:44:41,666 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 20:44:41,666 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:44:41,671 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:44:41,671 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:44:41,672 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:44:52,344 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 20:44:52,345 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 20:44:52,346 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 20:44:52,346 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 20:44:52,347 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 20:44:52,347 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:44:52,348 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:44:52,349 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:44:52,350 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:46:01,015 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 20:46:01,342 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 20:46:01,357 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 20:46:01,357 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 20:46:01,357 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 20:46:01,357 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 20:46:01,357 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:46:01,357 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:46:01,357 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:46:01,357 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:46:09,822 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 20:46:09,822 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 20:46:09,822 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 20:46:09,822 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 20:46:09,822 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 20:46:09,822 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:46:09,822 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:46:09,838 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:46:09,838 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:50:27,654 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3cd3e762] -1069913556
+2024-05-04 20:50:27,731 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:50:27,738 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:50:27,739 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:50:27,739 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:50:27,762 INFO [main] o.t.i.Utils - [TestNG] Running:
+  Command line suite
+
+2024-05-04 20:50:52,227 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3cd3e762] -1069913556
+2024-05-04 20:50:52,241 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:50:52,241 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:50:52,241 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:50:52,241 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:50:52,256 INFO [main] o.t.i.Utils - [TestNG] Running:
+  Command line suite
+
+2024-05-04 20:51:32,528 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 20:51:32,989 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 20:51:32,989 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 20:51:32,989 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 20:51:32,989 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 20:51:32,989 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 20:51:32,989 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:51:32,989 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:51:32,989 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:51:33,004 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:51:42,684 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 20:51:42,684 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 20:51:42,684 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 20:51:42,700 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 20:51:42,700 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 20:51:42,700 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:51:42,700 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:51:42,700 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:51:42,700 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:57:11,795 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 20:57:12,158 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 20:57:12,158 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 20:57:12,158 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 20:57:12,158 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 20:57:12,158 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 20:57:12,158 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:57:12,158 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:57:12,158 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:57:12,158 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:57:21,724 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 20:57:21,724 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 20:57:21,724 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 20:57:21,725 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 20:57:21,725 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 20:57:21,725 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:57:21,728 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:57:21,729 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:57:21,730 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:58:09,704 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 20:58:10,134 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 20:58:10,134 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 20:58:10,134 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 20:58:10,134 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 20:58:10,134 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 20:58:10,134 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:58:10,134 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:58:10,134 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:58:10,134 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:58:18,256 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 20:58:18,256 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 20:58:18,256 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 20:58:18,256 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 20:58:18,256 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 20:58:18,256 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:58:18,256 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:58:18,256 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:58:18,256 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:58:55,102 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 20:58:55,478 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 20:58:55,494 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 20:58:55,494 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 20:58:55,494 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 20:58:55,494 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 20:58:55,494 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:58:55,494 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:58:55,494 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:58:55,494 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 20:59:03,540 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 20:59:03,540 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 20:59:03,540 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 20:59:03,540 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 20:59:03,540 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 20:59:03,540 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 20:59:03,540 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 20:59:03,540 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 20:59:03,540 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:00:13,413 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:00:13,830 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:00:13,830 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:00:13,830 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:00:13,830 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:00:13,830 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:00:13,830 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:00:13,841 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:00:13,841 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:00:13,841 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:00:21,740 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:00:21,740 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:00:21,740 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:00:21,740 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:00:21,740 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:00:21,740 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:00:21,740 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:00:21,740 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:00:21,740 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:05:07,107 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:05:07,440 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:05:07,440 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:05:07,440 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:05:07,440 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:05:07,440 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:05:07,440 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:05:07,456 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:05:07,456 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:05:07,456 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:05:15,192 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:05:15,192 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:05:15,192 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:05:15,198 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:05:15,198 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:05:15,199 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:05:15,199 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:05:15,199 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:05:15,199 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:08:17,699 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3cd3e762] -1069913556
+2024-05-04 21:08:17,702 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:08:17,707 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:08:17,707 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:08:17,707 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:08:17,720 INFO [main] o.t.i.Utils - [TestNG] Running:
+  Command line suite
+
+2024-05-04 21:10:04,097 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:10:04,803 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:10:04,803 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:10:04,803 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:10:04,803 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:10:04,803 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:10:04,803 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:10:04,826 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:10:04,826 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:10:04,826 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:10:18,826 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:10:18,826 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:10:18,826 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:10:18,826 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:10:18,826 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:10:18,826 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:10:18,826 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:10:18,826 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:10:18,826 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:10:48,460 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3cd3e762] -1069913556
+2024-05-04 21:10:48,474 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:10:48,495 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:10:48,496 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:10:48,496 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:10:48,543 INFO [main] o.t.i.Utils - [TestNG] Running:
+  Command line suite
+
+2024-05-04 21:11:08,401 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3cd3e762] -1069913556
+2024-05-04 21:11:08,408 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:11:08,413 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:11:08,413 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:11:08,414 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:11:08,429 INFO [main] o.t.i.Utils - [TestNG] Running:
+  Command line suite
+
+2024-05-04 21:11:37,752 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3cd3e762] -1069913556
+2024-05-04 21:11:37,758 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:11:37,767 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:11:37,767 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:11:37,767 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:11:37,781 INFO [main] o.t.i.Utils - [TestNG] Running:
+  Command line suite
+
+2024-05-04 21:12:04,838 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:12:05,253 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:12:05,257 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:12:05,258 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:12:05,258 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:12:05,258 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:12:05,258 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:12:05,261 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:12:05,261 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:12:05,261 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:12:14,558 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:12:14,558 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:12:14,558 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:12:14,563 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:12:14,563 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:12:14,563 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:12:14,563 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:12:14,595 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:12:14,595 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:13:24,255 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:13:24,708 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:13:24,709 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:13:24,710 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:13:24,710 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:13:24,711 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:13:24,711 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:13:24,716 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:13:24,717 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:13:24,717 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:13:33,354 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:13:33,355 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:13:33,357 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:13:33,358 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:13:33,360 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:13:33,362 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:13:33,365 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:13:33,370 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:13:33,370 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:14:34,903 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:14:35,688 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:14:35,688 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:14:35,695 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:14:35,696 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:14:35,696 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:14:35,696 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:14:35,701 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:14:35,701 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:14:35,701 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:14:52,638 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:14:52,638 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:14:52,638 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:14:52,642 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:14:52,642 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:14:52,642 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:14:52,642 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:14:52,642 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:14:52,642 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:17:22,311 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:17:22,687 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:17:22,687 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:17:22,687 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:17:22,687 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:17:22,687 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:17:22,687 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:17:22,695 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:17:22,695 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:17:22,695 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:17:31,064 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:17:31,064 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:17:31,064 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:17:31,064 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:17:31,064 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:17:31,064 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:17:31,064 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:17:31,064 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:17:31,064 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:18:44,250 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@3cd3e762] -1069913556
+2024-05-04 21:18:44,250 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:18:44,266 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:18:44,266 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:18:44,266 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:18:44,266 INFO [main] o.t.i.Utils - [TestNG] Running:
+  Command line suite
+
+2024-05-04 21:19:34,368 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:19:34,789 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:19:34,789 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:19:34,789 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:19:34,800 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:19:34,800 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:19:34,800 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:19:34,805 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:19:34,805 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:19:34,805 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:19:44,077 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -2042130425
+2024-05-04 21:19:44,077 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@62e7f11d] -431066137
+2024-05-04 21:19:44,077 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1165397402
+2024-05-04 21:19:44,077 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] 415878207
+2024-05-04 21:19:44,077 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@3315d2d7] -1380046167
+2024-05-04 21:19:44,086 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:19:44,086 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:19:44,086 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:19:44,086 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:24:47,592 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:24:48,077 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -215845613
+2024-05-04 21:24:48,077 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -2011769987
+2024-05-04 21:24:48,077 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -1797121222
+2024-05-04 21:24:48,077 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] -744232124
+2024-05-04 21:24:48,077 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 1939670884
+2024-05-04 21:24:48,077 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 114387998
+2024-05-04 21:24:48,077 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:24:48,087 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:24:48,087 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:24:48,091 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:24:56,666 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 1939670884
+2024-05-04 21:24:56,666 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] -744232124
+2024-05-04 21:24:56,666 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 114387998
+2024-05-04 21:24:56,666 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -1797121222
+2024-05-04 21:24:56,666 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -215845613
+2024-05-04 21:24:56,666 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -2011769987
+2024-05-04 21:24:56,666 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:24:56,666 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:24:56,666 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:24:56,666 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:25:22,083 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@1fa121e2] -701160058
+2024-05-04 21:25:22,102 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:25:22,111 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:25:22,111 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:25:22,111 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:25:22,129 INFO [main] o.t.i.Utils - [TestNG] Running:
+  Command line suite
+
+2024-05-04 21:25:53,545 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:25:53,937 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -215845613
+2024-05-04 21:25:53,937 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -2011769987
+2024-05-04 21:25:53,937 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -1797121222
+2024-05-04 21:25:53,937 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] -744232124
+2024-05-04 21:25:53,937 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 1939670884
+2024-05-04 21:25:53,937 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 114387998
+2024-05-04 21:25:53,937 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:25:53,953 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:25:53,953 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:25:53,953 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:26:03,657 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 1939670884
+2024-05-04 21:26:03,673 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] -744232124
+2024-05-04 21:26:03,673 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 114387998
+2024-05-04 21:26:03,673 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -1797121222
+2024-05-04 21:26:03,673 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -215845613
+2024-05-04 21:26:03,673 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -2011769987
+2024-05-04 21:26:03,673 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:26:03,673 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:26:03,673 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:26:03,673 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:26:33,725 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:26:34,014 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -215845613
+2024-05-04 21:26:34,027 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -2011769987
+2024-05-04 21:26:34,027 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -1797121222
+2024-05-04 21:26:34,027 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] -744232124
+2024-05-04 21:26:34,027 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 1939670884
+2024-05-04 21:26:34,031 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 114387998
+2024-05-04 21:26:34,031 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:26:34,031 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:26:34,031 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:26:34,031 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:26:43,990 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 1939670884
+2024-05-04 21:26:43,990 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] -744232124
+2024-05-04 21:26:43,990 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 114387998
+2024-05-04 21:26:43,990 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -1797121222
+2024-05-04 21:26:43,990 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -215845613
+2024-05-04 21:26:43,990 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -2011769987
+2024-05-04 21:26:43,990 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:26:43,990 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:26:43,990 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:26:43,990 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:30:09,643 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:30:09,985 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -215845613
+2024-05-04 21:30:09,985 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -2011769987
+2024-05-04 21:30:09,985 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -1797121222
+2024-05-04 21:30:09,985 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] -744232124
+2024-05-04 21:30:09,985 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 1939670884
+2024-05-04 21:30:09,985 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 114387998
+2024-05-04 21:30:09,985 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:30:10,001 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:30:10,001 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:30:10,001 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:30:20,389 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 1939670884
+2024-05-04 21:30:20,389 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] -744232124
+2024-05-04 21:30:20,389 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 114387998
+2024-05-04 21:30:20,389 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -1797121222
+2024-05-04 21:30:20,389 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -215845613
+2024-05-04 21:30:20,389 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -2011769987
+2024-05-04 21:30:20,389 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:30:20,389 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:30:20,389 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:30:20,389 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:31:21,077 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:31:21,428 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -215845613
+2024-05-04 21:31:21,430 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -2011769987
+2024-05-04 21:31:21,431 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -1797121222
+2024-05-04 21:31:21,431 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] -744232124
+2024-05-04 21:31:21,431 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 1939670884
+2024-05-04 21:31:21,431 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 114387998
+2024-05-04 21:31:21,431 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:31:21,437 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:31:21,437 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:31:21,437 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:31:32,367 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 1939670884
+2024-05-04 21:31:32,367 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] -744232124
+2024-05-04 21:31:32,367 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 114387998
+2024-05-04 21:31:32,367 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -1797121222
+2024-05-04 21:31:32,367 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -215845613
+2024-05-04 21:31:32,367 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -2011769987
+2024-05-04 21:31:32,370 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:31:32,371 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:31:32,372 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:31:32,372 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:32:29,676 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:32:30,024 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -215845613
+2024-05-04 21:32:30,024 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -2011769987
+2024-05-04 21:32:30,024 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -1797121222
+2024-05-04 21:32:30,024 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] -744232124
+2024-05-04 21:32:30,024 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 1939670884
+2024-05-04 21:32:30,024 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 114387998
+2024-05-04 21:32:30,024 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:32:30,034 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:32:30,034 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:32:30,034 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:32:39,974 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 1939670884
+2024-05-04 21:32:39,974 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] -744232124
+2024-05-04 21:32:39,974 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@503d687a] 114387998
+2024-05-04 21:32:39,974 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -1797121222
+2024-05-04 21:32:39,974 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -215845613
+2024-05-04 21:32:39,974 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@d6e7bab] -2011769987
+2024-05-04 21:32:39,974 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:32:39,974 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:32:39,974 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:32:39,974 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:34:45,432 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:34:45,862 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@5fa07e12] 1163163514
+2024-05-04 21:34:45,863 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@5fa07e12] -632760860
+2024-05-04 21:34:45,864 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@5fa07e12] -418112095
+2024-05-04 21:34:45,864 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@6a370f4] -1979059266
+2024-05-04 21:34:45,865 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@6a370f4] 704843742
+2024-05-04 21:34:45,865 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@6a370f4] -1120439144
+2024-05-04 21:34:45,865 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@6a370f4] 1684131292
+2024-05-04 21:34:45,865 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:34:45,873 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:34:45,873 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:34:45,873 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:34:56,281 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@6a370f4] 704843742
+2024-05-04 21:34:56,281 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@6a370f4] 1684131292
+2024-05-04 21:34:56,281 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@6a370f4] -1979059266
+2024-05-04 21:34:56,281 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@6a370f4] -1120439144
+2024-05-04 21:34:56,281 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@5fa07e12] -418112095
+2024-05-04 21:34:56,281 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@5fa07e12] 1163163514
+2024-05-04 21:34:56,281 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@5fa07e12] -632760860
+2024-05-04 21:34:56,289 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:34:56,289 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:34:56,289 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:34:56,289 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:37:54,798 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:37:55,305 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:37:55,321 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:37:55,321 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:37:55,321 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:37:55,321 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:37:55,321 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:37:55,321 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:37:55,321 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:37:55,321 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:37:55,321 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:37:55,321 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:37:55,321 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:38:05,584 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:38:05,584 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:38:05,584 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:38:05,584 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:38:05,584 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:38:05,584 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:38:05,599 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:38:05,599 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:38:05,599 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:38:05,599 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:38:05,599 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:38:05,599 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:38:54,758 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:38:55,107 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:38:55,107 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:38:55,107 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:38:55,107 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:38:55,107 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:38:55,107 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:38:55,107 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:38:55,107 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:38:55,107 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:38:55,107 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:38:55,107 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:38:55,107 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:39:04,827 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:39:04,827 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:39:04,827 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:39:04,827 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:39:04,827 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:39:04,827 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:39:04,843 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:39:04,843 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:39:04,843 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:39:04,843 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:39:04,843 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:39:04,843 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:40:17,408 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:40:17,812 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:40:17,827 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:40:17,827 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:40:17,827 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:40:17,827 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:40:17,827 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:40:17,827 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:40:17,827 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:40:17,827 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:40:17,841 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:40:17,842 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:40:17,842 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:40:28,212 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:40:28,212 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:40:28,212 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:40:28,212 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:40:28,212 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:40:28,212 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:40:28,212 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:40:28,212 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:40:28,212 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:40:28,212 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:40:28,212 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:40:28,212 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:41:05,992 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@4116aac9] -1630206031
+2024-05-04 21:41:05,992 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:41:06,008 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:41:06,008 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:41:06,008 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:41:06,008 INFO [main] o.t.i.Utils - [TestNG] Running:
+  Command line suite
+
+2024-05-04 21:41:44,245 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:41:44,777 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:41:44,778 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:41:44,780 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:41:44,781 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:41:44,782 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:41:44,782 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:41:44,783 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:41:44,784 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:41:44,784 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:41:44,790 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:41:44,791 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:41:44,791 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:41:54,517 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:41:54,517 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:41:54,518 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:41:54,518 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:41:54,518 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:41:54,518 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:41:54,518 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:41:54,518 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:41:54,519 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:41:54,520 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:41:54,520 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:41:54,520 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:42:53,168 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:42:53,535 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:42:53,535 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:42:53,535 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:42:53,535 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:42:53,535 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:42:53,535 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:42:53,535 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:42:53,535 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:42:53,535 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:42:53,547 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:42:53,547 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:42:53,547 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:43:06,037 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:43:06,037 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:43:06,037 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:43:06,037 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:43:06,037 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:43:06,037 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:43:06,037 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:43:06,037 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:43:06,037 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:43:06,037 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:43:06,037 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:43:06,037 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:43:35,153 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:43:35,535 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:43:35,551 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:43:35,551 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:43:35,551 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:43:35,551 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:43:35,551 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:43:35,551 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:43:35,551 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:43:35,551 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:43:35,551 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:43:35,551 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:43:35,551 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:43:44,779 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:43:44,779 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:43:44,779 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:43:44,779 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:43:44,779 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:43:44,779 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:43:44,779 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:43:44,779 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:43:44,779 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:43:44,779 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:43:44,779 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:43:44,779 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:46:32,132 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:46:32,483 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:46:32,483 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:46:32,483 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:46:32,483 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:46:32,483 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:46:32,483 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:46:32,483 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:46:32,483 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:46:32,483 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:46:32,498 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:46:32,498 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:46:32,498 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:46:41,478 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:46:41,478 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:46:41,478 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:46:41,478 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:46:41,478 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:46:41,478 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:46:41,478 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:46:41,478 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:46:41,478 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:46:41,493 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:46:41,493 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:46:41,493 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:47:04,967 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:47:05,362 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:47:05,362 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:47:05,362 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:47:05,362 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:47:05,362 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:47:05,362 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:47:05,368 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:47:05,368 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:47:05,370 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:47:05,375 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:47:05,375 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:47:05,376 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:47:15,006 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:47:15,006 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:47:15,006 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:47:15,006 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:47:15,006 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:47:15,006 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:47:15,021 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:47:15,021 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:47:15,021 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:47:15,021 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:47:15,021 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:47:15,021 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:51:22,641 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:51:22,988 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:51:22,988 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:51:22,988 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:51:22,988 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:51:22,988 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:51:23,001 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:51:23,001 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:51:23,004 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:51:23,004 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:51:23,004 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:51:23,004 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:51:23,004 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:51:33,292 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:51:33,292 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:51:33,292 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:51:33,292 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:51:33,292 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:51:33,292 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:51:33,292 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:51:33,292 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:51:33,292 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:51:33,292 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:51:33,292 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:51:33,292 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:54:01,341 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:54:01,689 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:54:01,689 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:54:01,689 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:54:01,689 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:54:01,689 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:54:01,689 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:54:01,689 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:54:01,689 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:54:01,689 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:54:01,699 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:54:01,699 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:54:01,699 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:54:11,867 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:54:11,867 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:54:11,867 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:54:11,867 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:54:11,867 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:54:11,867 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:54:11,867 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:54:11,867 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:54:11,867 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:54:11,867 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:54:11,867 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:54:11,867 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:55:49,629 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:55:49,996 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:55:49,997 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:55:49,998 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:55:49,999 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:55:50,000 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:55:50,000 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:55:50,000 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:55:50,001 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:55:50,001 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:55:50,007 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:55:50,008 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:55:50,008 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:55:59,531 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:55:59,532 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:55:59,532 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:55:59,532 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:55:59,538 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:55:59,538 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:55:59,539 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:55:59,539 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:55:59,539 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:55:59,540 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:55:59,549 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:55:59,550 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:57:48,777 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:57:49,200 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:57:49,200 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:57:49,200 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:57:49,200 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:57:49,200 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:57:49,200 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:57:49,200 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:57:49,200 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:57:49,200 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:57:49,200 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:57:49,200 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:57:49,200 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:57:59,128 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:57:59,128 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:57:59,128 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:57:59,128 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:57:59,128 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:57:59,128 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:57:59,128 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:57:59,128 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:57:59,128 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:57:59,128 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:57:59,128 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:57:59,128 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:58:54,723 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 21:58:55,121 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:58:55,121 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:58:55,121 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:58:55,121 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:58:55,121 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:58:55,121 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:58:55,121 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:58:55,127 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:58:55,127 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:58:55,127 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:58:55,127 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:58:55,127 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 21:59:05,652 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 21:59:05,652 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 21:59:05,652 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 21:59:05,652 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 21:59:05,652 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 21:59:05,652 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 21:59:05,652 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 21:59:05,668 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 21:59:05,668 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 21:59:05,668 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 21:59:05,668 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 21:59:05,668 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 22:00:29,235 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 22:00:29,584 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 22:00:29,584 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 22:00:29,584 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 22:00:29,584 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 22:00:29,584 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 22:00:29,584 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 22:00:29,584 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 22:00:29,584 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 22:00:29,584 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 22:00:29,601 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 22:00:29,601 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 22:00:29,601 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 22:00:39,678 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 22:00:39,678 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 22:00:39,678 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 22:00:39,678 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 22:00:39,678 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 22:00:39,678 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 22:00:39,678 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 22:00:39,678 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 22:00:39,678 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 22:00:39,678 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 22:00:39,678 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 22:00:39,678 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 22:01:52,339 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 22:01:52,732 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 22:01:52,736 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 22:01:52,737 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 22:01:52,738 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 22:01:52,739 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 22:01:52,739 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 22:01:52,739 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 22:01:52,740 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 22:01:52,740 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 22:01:52,746 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 22:01:52,746 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 22:01:52,747 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 22:02:08,723 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 22:02:08,724 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 22:02:08,724 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 22:02:08,729 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 22:02:08,730 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 22:02:08,731 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 22:02:08,731 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 22:02:08,731 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 22:02:08,731 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 22:02:08,733 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 22:02:08,733 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 22:02:08,733 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 22:03:19,935 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 22:03:20,546 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 22:03:20,546 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 22:03:20,546 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 22:03:20,546 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 22:03:20,546 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 22:03:20,546 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 22:03:20,546 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 22:03:20,546 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 22:03:20,553 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 22:03:20,553 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 22:03:20,559 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 22:03:20,560 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 22:03:34,281 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 22:03:34,281 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 22:03:34,281 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 22:03:34,283 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 22:03:34,283 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 22:03:34,283 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 22:03:34,283 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 22:03:34,283 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 22:03:34,283 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 22:03:34,283 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 22:03:34,283 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 22:03:34,283 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 22:04:34,719 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 22:04:35,154 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 22:04:35,154 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 22:04:35,162 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 22:04:35,162 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 22:04:35,162 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 22:04:35,162 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 22:04:35,162 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 22:04:35,162 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 22:04:35,162 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 22:04:35,170 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 22:04:35,170 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 22:04:35,170 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 22:04:47,404 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 22:04:47,404 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 22:04:47,404 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 22:04:47,404 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 22:04:47,412 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 22:04:47,412 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 22:04:47,412 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 22:04:47,412 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 22:04:47,412 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 22:04:47,412 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 22:04:47,412 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 22:04:47,412 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 22:05:35,656 DEBUG [main] o.t.TestNG - suiteXmlPath: "e:\Kuliah\Semester 6 (SIZE BESAR)\PPL\RestAssured\b11-rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 22:05:36,004 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 22:05:36,005 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 22:05:36,009 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 22:05:36,010 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 22:05:36,011 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 22:05:36,011 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 22:05:36,012 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 22:05:36,012 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 22:05:36,012 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 22:05:36,017 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 22:05:36,018 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 22:05:36,018 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 22:05:47,649 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithEmptyFields()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 1310646111
+2024-05-04 22:05:47,649 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidPictureURL()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -2005033635
+2024-05-04 22:05:47,649 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithInvalidTitle()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] 2136917286
+2024-05-04 22:05:47,649 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -1373256897
+2024-05-04 22:05:47,649 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE CreateUserTests.testCreateUserWithoutEmail()[pri:0, instance:com.restassured.dummyapi.CreateUserTests@2abf4075] -514636775
+2024-05-04 22:05:47,649 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -584524589
+2024-05-04 22:05:47,649 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidData()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] 996751020
+2024-05-04 22:05:47,649 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE UpdateUserTests.testUpdateUserWithValidEmail()[pri:0, instance:com.restassured.dummyapi.UpdateUserTests@55b53d44] -799173354
+2024-05-04 22:05:47,649 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 22:05:47,649 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 22:05:47,649 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 22:05:47,664 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES

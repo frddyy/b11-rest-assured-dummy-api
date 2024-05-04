@@ -4,6 +4,7 @@
     <test name="DummyAPI Test">
         <classes>
             <class name="com.restassured.dummyapi.UpdateUserTests"/>
+            <class name="com.restassured.dummyapi.CreateUserTests"/>
         </classes>
     </test>
 </suite>
