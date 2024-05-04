@@ -1,0 +1,22 @@
+2024-05-04 09:43:25,334 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@13b6aecc] -940158215
+2024-05-04 09:43:25,338 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 09:43:25,343 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 09:43:25,343 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 09:43:25,344 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 09:43:54,494 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@158a8276] -909498717
+2024-05-04 09:43:54,499 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 09:43:54,504 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 09:43:54,504 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 09:43:54,505 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 10:58:22,769 DEBUG [main] o.t.TestNG - suiteXmlPath: "d:\Documents\KULIAH\SEMESTER 6\PPL\Praktikum\W11\rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 10:58:23,671 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@13b13b5d] -940515446
+2024-05-04 10:58:23,673 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 10:58:23,683 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 10:58:23,683 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 10:58:23,684 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES
+2024-05-04 10:59:05,038 DEBUG [main] o.t.TestNG - suiteXmlPath: "d:\Documents\KULIAH\SEMESTER 6\PPL\Praktikum\W11\rest-assured-dummy-api\src\test\resources\testng.xml"
+2024-05-04 10:59:05,422 DEBUG [main] o.t.i.Graph - [Graph] ADDING NODE DummyApiTests.testUpdateUserWithInvalidAppId()[pri:0, instance:com.restassured.dummyapi.DummyApiTests@13b13b5d] -940515446
+2024-05-04 10:59:05,423 DEBUG [main] o.t.i.Graph - [Graph] ================ SORTING
+2024-05-04 10:59:05,428 DEBUG [main] o.t.i.Graph - [Graph] =============== DONE SORTING
+2024-05-04 10:59:05,428 DEBUG [main] o.t.i.Graph - [Graph] ====== SORTED NODES
+2024-05-04 10:59:05,428 DEBUG [main] o.t.i.Graph - [Graph] ====== END SORTED NODES

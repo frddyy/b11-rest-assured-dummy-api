@@ -1,0 +1,26 @@
+<configuration>
+
+    <!-- Appender untuk menulis log ke konsol -->
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>%date %level [%thread] %logger{10} - %msg%n</pattern>
+        </encoder>
+    </appender>
+    
+    <!-- Appender untuk menulis log ke file -->
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <file>myapp.log</file>
+        <append>true</append>
+        <encoder>
+            <pattern>%date %level [%thread] %logger{10} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Konfigurasi level logging -->
+    <!-- Level dapat diatur sebagai TRACE, DEBUG, INFO, WARN, ERROR -->
+    <root level="DEBUG">
+        <appender-ref ref="STDOUT"/>
+        <appender-ref ref="FILE"/>
+    </root>
+
+</configuration>
