@@ -47,7 +47,35 @@ git clone https://github.com/frddyy/b11-rest-assured-dummy-api.git
   Untuk informasi lebih lanjut -> [Kunjungi situs SLF4J](http://www.slf4j.org/) untuk informasi lebih lanjut.
 
 ## Project Structure
-![Project Structure](https://drive.google.com/uc?id=1BdeNVX7b-KFso7Vfqv2CLrSIS34vIJvf)
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── restassured/
+│   │   │           └── dummyapi/
+│   │   │               └── App.java
+│   ├── test/
+│   │   └── java/
+│   │       └── com/
+│   │           └── restassured/
+│   │               └── dummyspi/
+│   │                   ├── CreateUserTests.java
+│   │                   ├── DeleteUserApiTests.java
+│   │                   ├── GetUserByIdApiTests.java
+│   │                   └── UpdateUserTests.java
+│   ├── resources/
+│   │   └── logback.xml
+│   │   └── testng.xml
+├── target/
+│   └── classes/
+│   └── generated-sources/
+│   └── maven-status/
+│   └── surefire-reports/
+│   └── test-classes/
+├── pom.xml
+├── README.md
+└── .gitignore
+
 - **src/test/java/com/restassured/dummyapi**: Berisi script pengujian.
 - **src/test/resources**: Berisi konfigurasi Logback dan TestNG.
 - **target/surefire-reports/index.html**: Berisi laporan pengujian dalam format HTML.
