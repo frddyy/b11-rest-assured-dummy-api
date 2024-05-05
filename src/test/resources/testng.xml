@@ -6,6 +6,7 @@
             <class name="com.restassured.dummyapi.UpdateUserTests"/>
             <class name="com.restassured.dummyapi.GetUserByIdApiTests"/>
             <class name="com.restassured.dummyapi.DeleteUserApiTests"/>
+            <class name="com.restassured.dummyapi.CreateUserTests"/>
         </classes>
     </test>
 </suite>
