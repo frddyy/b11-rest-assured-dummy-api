@@ -51,13 +51,29 @@ git clone https://github.com/frddyy/b11-rest-assured-dummy-api.git
 - **src/test/resources**: Berisi konfigurasi Logback dan TestNG.
 - **target/surefire-reports**: Berisi laporan pengujian dalam format HTML.
 
-## How to Run
+## How to Run / Test Runner
 1. Buka terminal atau command prompt dan arahkan ke direktori proyek.
 ```
 cd b11-rest-assured-dummy-api
 ```
 2. Untuk menginstal proyek, jalankan perintah `mvn install`.
 3. Jalankan perintah `mvn test` untuk menjalankan pengujian.
+
+## Fitur Software Under Test
+
+Proyek ini menguji API DummyAPI dengan menggunakan beberapa fitur utama, diantaranya:
+
+| Fitur            | Deskripsi                                 | Cara Request                                   |
+|------------------|-------------------------------------------|------------------------------------------------|
+| Get User by ID   | Mendapatkan informasi pengguna berdasarkan ID pengguna. | `GET /user/:id`                           |
+| Create User      | Membuat pengguna baru.                    | `POST /user/create` dengan body data pengguna baru.    |
+| Update User      | Memperbarui informasi pengguna yang ada.  | `PUT /user/:id` dengan body data yang diperbarui. |
+| Delete User      | Menghapus pengguna dari sistem.           | `DELETE /user/:id`                        |
+
+Dokumentasi lengkap untuk API DummyAPI dapat ditemukan di [sini](https://dummyapi.io/docs/user).
+
+
+
 
 
 
