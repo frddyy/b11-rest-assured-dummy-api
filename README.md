@@ -47,6 +47,7 @@ git clone https://github.com/frddyy/b11-rest-assured-dummy-api.git
   Untuk informasi lebih lanjut -> [Kunjungi situs SLF4J](http://www.slf4j.org/) untuk informasi lebih lanjut.
 
 ## Project Structure
+```
 ├── src/
 │   ├── main/
 │   │   ├── java/
@@ -75,6 +76,7 @@ git clone https://github.com/frddyy/b11-rest-assured-dummy-api.git
 ├── pom.xml
 ├── README.md
 └── .gitignore
+```
 
 - **src/test/java/com/restassured/dummyapi**: Berisi script pengujian.
 - **src/test/resources**: Berisi konfigurasi Logback dan TestNG.
