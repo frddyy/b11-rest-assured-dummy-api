@@ -8,6 +8,7 @@ import static org.hamcrest.Matchers.equalTo;
 
 public class UpdateUserTests {
 
+    //TC01
     @Test
     public void testUpdateUserWithInvalidAppId() {
         // Set base URI for all requests
@@ -36,6 +37,7 @@ public class UpdateUserTests {
         System.out.println("Complete Response Body: " + response.getBody().asString());
     }
 
+    //TC04
     @Test
     public void testUpdateUserWithValidData() {
         // Set base URI for all requests
@@ -94,6 +96,76 @@ public class UpdateUserTests {
         System.out.println("Response Body: " + response.asString());
     }
 
+    //TC33
+    @Test
+    public void testUpdateUserFirstNameWithValidRange() {
+        // Set base URI for all requests
+        baseURI = "https://dummyapi.io/data/v1";
+
+        String appId = "662dd4bdfce0ef07531de25b"; // Replace with your actual App ID
+        String userId = "60d0fe4f5311236168a109d5"; // User ID to update
+
+        // JSON body for the PUT request
+        String requestBody = """
+        {
+            "firstName": "Ainidiah"
+        }""";
+
+        // Execute PUT request and validate response
+        Response response = given()
+            .header("Content-Type", "application/json")
+            .header("app-id", appId)
+            .body(requestBody)
+            .log().all()  // Log the request details
+            .when()
+            .put("/user/" + userId)
+            .then()
+            .log().all()  // Log the response details
+            .statusCode(200)
+            .body("firstName", equalTo("Ainidiah"))
+            .extract()
+            .response();
+
+        // Print response for debugging
+        System.out.println("Response Body: " + response.asString());
+    }
+
+
+    //TC40
+@Test
+    public void testUpdateUserGenderWithNotString() {
+        // Set base URI for all requests
+        baseURI = "https://dummyapi.io/data/v1";
+
+        String appId = "662dd4bdfce0ef07531de25b"; // Replace with your actual App ID
+        String userId = "60d0fe4f5311236168a109d5"; // User ID to update
+
+        // JSON body for the PUT request
+        String requestBody = """
+        {
+            "gender": 254
+        }""";
+
+        // Execute PUT request and validate response
+        Response response = given()
+            .header("Content-Type", "application/json")
+            .header("app-id", appId)
+            .body(requestBody)
+            .log().all()  // Log the request details
+            .when()
+            .put("/user/" + userId)
+            .then()
+            .log().all()  // Log the response details
+            .statusCode(400)
+            .body("error", equalTo("BODY_NOT_VALID"))
+            .extract()
+            .response();
+
+        // Print response for debugging
+        System.out.println("Response Body: " + response.asString());
+    }
+
+    //TC64
     @Test
     public void testUpdateUserWithValidEmail() {
         // Set base URI for all requests
