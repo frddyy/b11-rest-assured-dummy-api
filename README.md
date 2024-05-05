@@ -59,7 +59,7 @@ git clone https://github.com/frddyy/b11-rest-assured-dummy-api.git
 │   │   └── java/
 │   │       └── com/
 │   │           └── restassured/
-│   │               └── dummyspi/
+│   │               └── dummyapi/
 │   │                   ├── CreateUserTests.java
 │   │                   ├── DeleteUserApiTests.java
 │   │                   ├── GetUserByIdApiTests.java
@@ -102,6 +102,33 @@ Proyek ini menguji API DummyAPI dengan menggunakan beberapa fitur utama, diantar
 | Delete User      | Menghapus pengguna dari sistem.           | `DELETE /user/:id`                        |
 
 Dokumentasi lengkap untuk API DummyAPI dapat ditemukan di [sini](https://dummyapi.io/docs/user).
+
+
+# Test Cases
+
+| No. | Fitur Pengujian            | Test Case                                  | Tujuan Pengujian                               |
+|-----|----------------------------|--------------------------------------------|------------------------------------------------|
+| 1   | CreateUserTests.java      | - TC4 Create user dengan semua field terisi dengan tipe data yang valid (PASS)       | Memastikan bahwa pengguna dapat membuat pengguna baru dengan semua informasi yang valid. |
+|     |                            | - TC12 Create user dengan semua field terisi kecuali field email (PASS)             | Memastikan bahwa pengguna tidak dapat membuat pengguna baru tanpa mengisi email. |
+|    |                            | - TC13 Create user dengan semua field diisi kosong (PASS)                            | Memastikan bahwa pengguna tidak dap at membuat pengguna baru dengan mengosongkan semua field. |
+|     |                            | - TC29 Create user dengan field picture diisi selain format URL (FAILED)             | Memastikan bahwa pengguna tidak dapat membuat pengguna baru dengan URL gambar yang tidak valid. |
+|     |                            | - TC54 Create user dengan field title diisi selain "mr,ms,mrs,miss,dr" dan kosong (PASS) | Memastikan bahwa pengguna tidak dapat membuat pengguna baru dengan judul yang tidak valid. |
+|     | DeleteUserApiTests.java   | - TC1 DeleteUser - App Id Unregistered       | Memastikan bahwa pengguna tidak dapat menghapus pengguna dengan app-id yang tidak terdaftar. |
+|     |                            | - TC2 DeleteUser - App Id Invalid Format     | Memastikan bahwa pengguna tidak dapat menghapus pengguna dengan app-id yang memiliki format yang tidak valid. |
+|     |                            | - TC3 DeleteUser - App Id Not Filled         | Memastikan bahwa pengguna tidak dapat menghapus pengguna tanpa app-id. |
+|     |                            | - TC4 DeleteUser - User and App Id Valid Registered (PASS) | Memastikan bahwa pengguna dapat menghapus pengguna dengan id pengguna dan app-id yang valid. |
+|     |                            | - TC5 DeleteUser - User Id Valid but Unregistered | Memastikan bahwa pengguna tidak dapat menghapus pengguna dengan id pengguna yang valid tetapi tidak terdaftar. |
+|     | GetUserByIdApiTests.java | - TC2 GetUserById - App Id Invalid Format    | Memastikan bahwa pengguna tidak dapat mendapatkan pengguna berdasarkan id dengan app-id yang memiliki format yang tidak valid. |
+|     |                            | - TC3 GetUserById - App Id Not Filled        | Memastikan bahwa pengguna tidak dapat mendapatkan pengguna berdasarkan id tanpa app-id. |
+|     |                            | - TC4 GetUserById - User Id & AppId Valid    | Memastikan bahwa pengguna dapat mendapatkan pengguna berdasarkan id dengan id pengguna dan app-id yang valid. |
+|     |                            | - TC5 GetUserById - User Id Valid but Unregistered | Memastikan bahwa pengguna tidak dapat mendapatkan pengguna dengan id pengguna yang valid tetapi tidak terdaftar. |
+|     |                            | - TC6 GetUserById - User Id Invalid          | Memastikan bahwa pengguna tidak dapat mendapatkan pengguna dengan id pengguna yang tidak valid. |
+|     | UpdateUserTests.java      | - TC01 Update user by Id dengan header app-id diisi dan tidak terdaftar di sistem        | Memastikan bahwa pengguna tidak dapat memperbarui pengguna dengan app-id yang tidak valid. |
+|     |                            | - TC04 Update user by Id dengan semua field terisi dengan data yang valid     | Memastikan bahwa pengguna dapat memperbarui pengguna dengan semua informasi yang valid. |
+|     |                            | - TC33 Update user by Id dengan field firstName diisi dengan > 2 dan < 50 huruf| Memastikan bahwa pengguna dapat memperbarui nama depan pengguna dengan rentang yang valid. |
+|     |                            | - TC40 Update user by Id dengan field gender diisi selain string     | Memastikan bahwa pengguna tidak dapat memperbarui jenis kelamin pengguna dengan tipe data yang tidak valid. |
+|     |                            | - TC64 Update user by Id dengan field email diubah           | Memastikan bahwa pengguna tidak dapat memperbarui email pengguna dengan email yang valid. |
+
 
 ## Author 
 * Aini Diah Rahmawati [211524033]
