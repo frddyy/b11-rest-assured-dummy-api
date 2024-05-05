@@ -132,8 +132,8 @@ public class UpdateUserTests {
 
 
     //TC40
-@Test
-    public void testUpdateUserGenderWithNotString() {
+    @Test
+        public void testUpdateUserGenderWithNotString() {
         // Set base URI for all requests
         baseURI = "https://dummyapi.io/data/v1";
 
