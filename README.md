@@ -47,9 +47,10 @@ git clone https://github.com/frddyy/b11-rest-assured-dummy-api.git
   Untuk informasi lebih lanjut -> [Kunjungi situs SLF4J](http://www.slf4j.org/) untuk informasi lebih lanjut.
 
 ## Project Structure
+![Project Structure](https://drive.google.com/uc?id=1BdeNVX7b-KFso7Vfqv2CLrSIS34vIJvf)
 - **src/test/java/com/restassured/dummyapi**: Berisi script pengujian.
 - **src/test/resources**: Berisi konfigurasi Logback dan TestNG.
-- **target/surefire-reports**: Berisi laporan pengujian dalam format HTML.
+- **target/surefire-reports/index.html**: Berisi laporan pengujian dalam format HTML.
 
 ## How to Run / Test Runner
 1. Buka terminal atau command prompt dan arahkan ke direktori proyek.
