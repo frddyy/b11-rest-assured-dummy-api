@@ -89,6 +89,8 @@ cd b11-rest-assured-dummy-api
 ```
 2. Untuk menginstal proyek, jalankan perintah `mvn install`.
 3. Jalankan perintah `mvn test` untuk menjalankan pengujian.
+4. Setelah pengujian selesai, laporan pengujian akan di-generate. Untuk mengakses laporan pengujian dalam format HTML, buka file berikut menggunakan browser web (Jika menggunakan VSCode bisa memanfaatkan fitur "Open with Live Server"):
+- **target/surefire-reports/index.html**
 
 ## Fitur Software Under Test
 
