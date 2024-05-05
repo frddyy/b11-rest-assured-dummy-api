@@ -72,6 +72,11 @@ Proyek ini menguji API DummyAPI dengan menggunakan beberapa fitur utama, diantar
 
 Dokumentasi lengkap untuk API DummyAPI dapat ditemukan di [sini](https://dummyapi.io/docs/user).
 
+## Author 
+* Aini Diah Rahmawati [211524033]
+* Ghessa Theniana - [211524042]
+* Mochamad Ferdy Fauzan - [211524049]
+
 
 
 
